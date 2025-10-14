@@ -1,0 +1,13 @@
+PS D:\challenges hitesh sir> git init 
+Initialized empty Git repository in D:/challenges hitesh sir/.git/
+PS D:\challenges hitesh sir> git add index.js 
+PS D:\challenges hitesh sir> git commit -m "first challenge submitted"
+[master (root-commit) f96c70a] first challenge submitted
+ 1 file changed, 2 insertions(+)
+ create mode 100644 index.js
+PS D:\challenges hitesh sir> git branch -M main
+PS D:\challenges hitesh sir> git remote add origin https://github.com/YogyashriPatil/25-day-JS-challenge-.git
+PS D:\challenges hitesh sir> git push -u origin main
+
+
+

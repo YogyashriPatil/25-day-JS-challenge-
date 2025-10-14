@@ -1,0 +1,18 @@
+var globalVar = "A global variable.";   
+var counter = 100;                       
+var isLegacy = true;                      
+let blockVariable = "Block scope string."; 
+let price = 50.75;                       
+let userLoggedIn = false;                 
+let emptyValue = null;                    
+let undefinedValue;                      
+const API_KEY = "xyz123";                 
+const PI = 3.14159;                       
+const isConstant = true;                  
+const myObject = { id: 1 };               
+const myArray = [1, 2, 3];        
+price = 65.00;
+counter = 101;
+console.log("var String:", globalVar);
+console.log("let Number:", price);
+console.log("const Object ID:", myObject.id);
